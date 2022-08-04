@@ -2,7 +2,7 @@
 This repository contains the materials used in the [workshop of Quantitative Training for Intersectional Diversity in Engineering](https://quanttide.ca/) 
 
 ### Workshop Weblink
-[https://dltraining.github.io/](https://quanttide.ca/))
+[https://dltraining.github.io/](https://quanttide.ca/)
 
 ### Notebooks, Videos and Slides
 | No | Topic | Tutorial | Video | Slides |
