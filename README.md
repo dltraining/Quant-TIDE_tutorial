@@ -14,7 +14,7 @@ This repository contains the materials used in the [workshop of Quantitative Tra
 | 5 | Recurrent Neural Networks | [notebook](RNN.ipynb) | [video](https://www.youtube.com/watch?v=kh89gBfnVdY&t=13s) | [slides](https://github.com/UBC-NLP/dlnlp2019/blob/master/slides/RNN.pdf) |
 | 6 | Introduction to Transformer | [notebook](transformer_intro_tutorial.ipynb) | [video](https://www.youtube.com/watch?v=5qX2Ua7lPCM) | [slides](https://github.com/UBC-NLP/dlnlp2019/blob/master/slides/transformer.pdf) |
 | 7 | Transformer for Machine Translation | [notebook](transformer_mt_tutorial.ipynb) | [video](https://www.youtube.com/watch?v=RjAt7qoP1pQ) | [slides](https://github.com/UBC-NLP/dlnlp2019/blob/master/slides/transformer.pdf) |
-| 8 | Speech Processing | [notebook](speech_tutorial.ipynb) |  | [slides](https://github.com/UBC-NLP/dlnlp2019/blob/master/slides/transformer.pdf](https://docs.google.com/presentation/d/1aHVRcX7D2ExzA2-kehPefTMX7Z86aAK10d-GxoHQiPc/edit?usp=sharing) |
+| 8 | Speech Processing | [notebook](speech_tutorial.ipynb) |  | [slides] (https://docs.google.com/presentation/d/1aHVRcX7D2ExzA2-kehPefTMX7Z86aAK10d-GxoHQiPc/edit?usp=sharing) |
 
 ### Contributors
 * [Muhammad Abdul-Mageed](https://mageed.arts.ubc.ca/)
